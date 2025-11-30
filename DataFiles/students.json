@@ -1,0 +1,59 @@
+[
+    {
+        "Name": "Prathmesh",
+        "Class": "Class IX",
+        "email": "abc@gmail.com",
+        "Borrowed": [
+            {
+                "BookName": "python core",
+                "BookId": "1",
+                "Author": "pr"
+            },
+            {
+                "BookName": "django guide",
+                "BookId": "2",
+                "Author": "dj"
+            }
+        ]
+    },
+    {
+        "Name": "Kaushal",
+        "Class": "Class XII",
+        "email": "kaushal@gmail.com"
+    },
+    {
+        "Name": "Sharu",
+        "Class": "Class XI",
+        "email": "sharu@gmail.com"
+    },
+    {
+        "Name": "Harry",
+        "Class": "XIII",
+        "email": "Harry@Gmail.com"
+    },
+    {
+        "Name": "Priyanka",
+        "Class": "I",
+        "email": "HEHE"
+    },
+    {
+        "Name": "Demo",
+        "Class": "I",
+        "email": "Demo"
+    },
+    {
+        "Name": "Shubhangi",
+        "Class": "13",
+        "email": "shubhangi@gmail.com"
+    },
+    {
+        "Name": "miya behan",
+        "Class": "19",
+        "email": "google"
+    },
+    {
+        "Name": "Shubhangi",
+        "Class": "13",
+        "email": "shubhangi@gmail.com"
+    }
+]
